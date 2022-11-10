@@ -1,0 +1,14 @@
+[user]
+	name = Bob Hanson
+	email = bob@tripleequal.net
+	signingKey = ""
+[core]
+	editor = nano
+[gpg]
+	program = gpg
+[commit]
+	gpgSign = false
+[tag]
+	forceSignAnnotated = false
+[init]
+	defaultBranch = main
